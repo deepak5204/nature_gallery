@@ -20,15 +20,11 @@ To view the project, simply open the `index.html` file in a web browser.
 
 Here's a preview of what you can expect when you open `index.html`:
 
-![Nature's Beauty Showcase Preview](preview.png)
 
 ## Contributing
 
 Contributions to enhance the project are welcome! If you have any suggestions for improvements or additional features, feel free to fork the project and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
 
 ---
 
